@@ -191,3 +191,12 @@
     <string name="login_label_sign_up">Sign-up</string>
     <string name="login_label_this_is_your_email">This is your email</string>
     <!--Login end-->
+    
+    
+    <?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#982df5"
+        android:endColor="#022466"
+        android:angle="45"/>
+</shape>
