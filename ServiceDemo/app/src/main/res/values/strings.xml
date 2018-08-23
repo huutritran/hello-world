@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ServiceDemo</string>
+    <!-- Step count preferences -->
+    <string name="pref_step_count_name">com.example.trith.servicedemo.STEP_COUNT</string>
+    <string name="pref_step_count_last_step">last_step</string>
+    <string name="pref_step_count_last_step_day">last_step_day</string>
+
+    <!-- End Step count preferences -->
+
+</resources>
